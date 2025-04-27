@@ -2,7 +2,7 @@
 ![24](https://github.com/user-attachments/assets/b0dd2d2f-3794-40bf-8eee-337d7e5aedb9)
 
 
--🔗 [Demo Project]()
+-🔗 [Demo Project]( https://helia-rz79.github.io/slider/)
 
 -🙍 Developed by helia rezaie
 
